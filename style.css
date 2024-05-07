@@ -3,7 +3,8 @@
     padding:0;
 
 }
-body{
+
+.body {
     .sedan-regular {
         font-family: "Sedan", serif;
         font-weight: 400;
@@ -61,5 +62,6 @@ font-size: 24px;
   }
 
 .estudante-icone{
- width: 24px;
+ width: 24px ;
+
 }
